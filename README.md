@@ -19,6 +19,8 @@ T31701 - Odwzoruj stronę przedstawioną na obrazie
 ```
 
 ### --------Links
+
+
 https://github.com/T3iL/T317-Webdesign
 
 [Top 10 Web Design Trends in 2020 - Every Designer Should Know](https://youtu.be/T6Jcl-GqeBA)
@@ -28,6 +30,8 @@ https://github.com/T3iL/T317-Webdesign
 
 
 GOOGLE DRIVE: 
+https://drive.google.com/drive/folders/1OqTcjwr_qAdTPO-dThxUOd3ooTTOlzgp?usp=sharing
+
 
 https://www.w3.org | https://validator.w3.org | https://www.php.net/manual/en/
 ### --------Repositiories
