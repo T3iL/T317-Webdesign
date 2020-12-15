@@ -6,6 +6,7 @@
 2. Typography
 3. Images (stock)
 4. Layout (float, flex, grid)
+6. Responsivness
 5. Colors
 ```
 
@@ -18,6 +19,11 @@ T31701 - Odwzoruj stronę przedstawioną na obrazie
 
 ### --------Links
 https://github.com/T3iL/T317-Webdesign
+
+[Top 10 Web Design Trends in 2020 - Every Designer Should Know](https://youtu.be/T6Jcl-GqeBA)
+[Web Design Trends 2021](https://youtu.be/gyGsPlt06bo)
+
+
 
 GOOGLE DRIVE: 
 
