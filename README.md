@@ -14,8 +14,9 @@
 ### --------ZAD
 
 ```
-T31701 - Odwzoruj stronę przedstawioną na obrazie
+T31701 - Przygotuj rebus w oparciu ikony z dowolnego zestawu
 
+T31702 - Odwzoruj reponsywną stronę przedstawioną na obrazach
 ```
 
 ### --------Links
