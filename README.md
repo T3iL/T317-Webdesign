@@ -32,8 +32,6 @@ T31702 - Odwzoruj reponsywną stronę przedstawioną na obrazach z poniższej st
         <div id="d8">8</div>
         <div id="d9">9</div>
         <div id="d10">10</div>
-        <div id="d11">11</div>
-        <div id="d12">12</div>
     </div>
 </body>
 ```
