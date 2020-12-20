@@ -19,6 +19,25 @@ T31701 - Przygotuj rebus w oparciu ikony z dowolnego zestawu
 T31702 - Odwzoruj reponsywną stronę przedstawioną na obrazach
 ```
 
+```html
+<body>
+    <div class="container">
+        <div id="d1">1</div>
+        <div id="d2">2</div>
+        <div id="d3">3</div>
+        <div id="d4">4</div>
+        <div id="d5">5</div>
+        <div id="d6">6</div>
+        <div id="d7">7</div>
+        <div id="d8">8</div>
+        <div id="d9">9</div>
+        <div id="d10">10</div>
+        <div id="d11">11</div>
+        <div id="d12">12</div>
+    </div>
+</body>
+```
+
 ### --------Links
 
 
