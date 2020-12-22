@@ -50,6 +50,9 @@ https://github.com/T3iL/T317-Webdesign
 GOOGLE DRIVE: 
 https://drive.google.com/drive/folders/1OqTcjwr_qAdTPO-dThxUOd3ooTTOlzgp?usp=sharing
 
+https://cytaty24.pl/cytaty/M%C4%85dro%C5%9B%C4%87/Aforyzmy,Sentencje/k/33
+
+https://www.rebusy.edu.pl/
 
 https://www.w3.org | https://validator.w3.org | https://www.php.net/manual/en/
 ### --------Repositiories
