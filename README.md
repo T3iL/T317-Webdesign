@@ -18,7 +18,7 @@ T31701 - Przygotuj rebus w oparciu ikony z dowolnego zestawu
 
 T31702 - Odwzoruj reponsywną stronę przedstawioną na obrazach z poniższej struktury
 ```
-
+![T31702-RWD-Grid.JPG](/T31702-RWD-Grid.JPG)
 ```html
 <body>
     <div class="container">
