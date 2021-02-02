@@ -54,6 +54,9 @@ https://cytaty24.pl/cytaty/M%C4%85dro%C5%9B%C4%87/Aforyzmy,Sentencje/k/33
 
 https://www.rebusy.edu.pl/
 
+### --------INSPIRATIONS
+
+
 https://www.w3.org | https://validator.w3.org | https://www.php.net/manual/en/
 ### --------Repositiories
 https://www.w3schools.com | https://stackoverflow.com | https://css-tricks.com |
